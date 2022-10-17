@@ -1,7 +1,7 @@
 ---
 title: "Localizzazione GPS"
 date: 2022-10-17T15:57:07+02:00
-draft: true
+draft: false
 ---
 # Localizzazione GPS
 

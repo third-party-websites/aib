@@ -1,7 +1,7 @@
 ---
 title: "Ricognizione preventiva avvistamento incendi con droni"
 date: 2022-10-17T15:38:57+02:00
-draft: true
+draft: false
 ---
 
 # Ricognizione preventiva avvistamento incendi con droni.

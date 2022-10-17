@@ -1,7 +1,7 @@
 ---
 title: "Informazione Nelle Scuole"
 date: 2022-10-17T15:38:57+02:00
-draft: true
+draft: false
 ---
 
 # Informazione nelle scuole
